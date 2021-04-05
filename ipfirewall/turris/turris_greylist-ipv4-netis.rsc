@@ -1,9 +1,10 @@
 # Based on a list of IPs from Project:Turris Greylist https://project.turris.cz/en/greylist
 /ip firewall address-list
 remove [find list=turris_greylist-ipv4-netis]
-add list=turris_greylist-ipv4-netis address=31.210.20.182 comment="Based on a list of IPs from Project:Turris Greylist https://project.turris.cz/en/greylist"
-add list=turris_greylist-ipv4-netis address=45.85.90.59 comment="Based on a list of IPs from Project:Turris Greylist https://project.turris.cz/en/greylist"
-add list=turris_greylist-ipv4-netis address=45.144.225.240 comment="Based on a list of IPs from Project:Turris Greylist https://project.turris.cz/en/greylist"
+add list=turris_greylist-ipv4-netis address=2.56.8.80 comment="Based on a list of IPs from Project:Turris Greylist https://project.turris.cz/en/greylist"
+add list=turris_greylist-ipv4-netis address=31.210.20.67 comment="Based on a list of IPs from Project:Turris Greylist https://project.turris.cz/en/greylist"
+add list=turris_greylist-ipv4-netis address=31.210.20.219 comment="Based on a list of IPs from Project:Turris Greylist https://project.turris.cz/en/greylist"
+add list=turris_greylist-ipv4-netis address=51.81.186.86 comment="Based on a list of IPs from Project:Turris Greylist https://project.turris.cz/en/greylist"
 add list=turris_greylist-ipv4-netis address=74.82.47.3 comment="Based on a list of IPs from Project:Turris Greylist https://project.turris.cz/en/greylist"
 add list=turris_greylist-ipv4-netis address=74.82.47.7 comment="Based on a list of IPs from Project:Turris Greylist https://project.turris.cz/en/greylist"
 add list=turris_greylist-ipv4-netis address=74.82.47.11 comment="Based on a list of IPs from Project:Turris Greylist https://project.turris.cz/en/greylist"
@@ -19,4 +20,8 @@ add list=turris_greylist-ipv4-netis address=74.82.47.47 comment="Based on a list
 add list=turris_greylist-ipv4-netis address=74.82.47.51 comment="Based on a list of IPs from Project:Turris Greylist https://project.turris.cz/en/greylist"
 add list=turris_greylist-ipv4-netis address=74.82.47.55 comment="Based on a list of IPs from Project:Turris Greylist https://project.turris.cz/en/greylist"
 add list=turris_greylist-ipv4-netis address=74.82.47.59 comment="Based on a list of IPs from Project:Turris Greylist https://project.turris.cz/en/greylist"
+add list=turris_greylist-ipv4-netis address=89.252.131.18 comment="Based on a list of IPs from Project:Turris Greylist https://project.turris.cz/en/greylist"
+add list=turris_greylist-ipv4-netis address=109.230.239.92 comment="Based on a list of IPs from Project:Turris Greylist https://project.turris.cz/en/greylist"
+add list=turris_greylist-ipv4-netis address=128.199.204.15 comment="Based on a list of IPs from Project:Turris Greylist https://project.turris.cz/en/greylist"
+add list=turris_greylist-ipv4-netis address=172.245.241.106 comment="Based on a list of IPs from Project:Turris Greylist https://project.turris.cz/en/greylist"
 add list=turris_greylist-ipv4-netis address=192.227.230.72 comment="Based on a list of IPs from Project:Turris Greylist https://project.turris.cz/en/greylist"
