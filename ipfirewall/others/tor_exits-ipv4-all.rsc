@@ -1354,3 +1354,7 @@ add list=tor_exits-ipv4-all address=51.15.243.127 comment="Based on a list of IP
 add list=tor_exits-ipv4-all address=51.159.177.221 comment="Based on a list of IPs from Tor Project https://www.torproject.org"
 add list=tor_exits-ipv4-all address=51.15.221.73 comment="Based on a list of IPs from Tor Project https://www.torproject.org"
 add list=tor_exits-ipv4-all address=51.158.169.81 comment="Based on a list of IPs from Tor Project https://www.torproject.org"
+add list=tor_exits-ipv4-all address=51.38.115.26 comment="Based on a list of IPs from Tor Project https://www.torproject.org"
+add list=tor_exits-ipv4-all address=51.75.18.91 comment="Based on a list of IPs from Tor Project https://www.torproject.org"
+add list=tor_exits-ipv4-all address=114.199.75.111 comment="Based on a list of IPs from Tor Project https://www.torproject.org"
+add list=tor_exits-ipv4-all address=51.75.20.142 comment="Based on a list of IPs from Tor Project https://www.torproject.org"
