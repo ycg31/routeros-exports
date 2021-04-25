@@ -1408,3 +1408,4 @@ add list=tor_exits-ipv4-all address=31.220.3.136 comment="Based on a list of IPs
 add list=tor_exits-ipv4-all address=83.97.20.189 comment="Based on a list of IPs from Tor Project https://www.torproject.org"
 add list=tor_exits-ipv4-all address=176.123.10.56 comment="Based on a list of IPs from Tor Project https://www.torproject.org"
 add list=tor_exits-ipv4-all address=157.90.69.212 comment="Based on a list of IPs from Tor Project https://www.torproject.org"
+add list=tor_exits-ipv4-all address=103.158.223.168 comment="Based on a list of IPs from Tor Project https://www.torproject.org"
