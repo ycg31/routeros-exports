@@ -4,7 +4,6 @@ remove [find list=feodo_tracker_c2-ipv4-all]
 add list=feodo_tracker_c2-ipv4-all address=103.18.108.116 comment="Based on a list of IPs from Feodo Tracker Botnet C2 https://feodotracker.abuse.ch"
 add list=feodo_tracker_c2-ipv4-all address=103.40.116.68 comment="Based on a list of IPs from Feodo Tracker Botnet C2 https://feodotracker.abuse.ch"
 add list=feodo_tracker_c2-ipv4-all address=103.6.213.203 comment="Based on a list of IPs from Feodo Tracker Botnet C2 https://feodotracker.abuse.ch"
-add list=feodo_tracker_c2-ipv4-all address=103.73.102.174 comment="Based on a list of IPs from Feodo Tracker Botnet C2 https://feodotracker.abuse.ch"
 add list=feodo_tracker_c2-ipv4-all address=103.89.252.130 comment="Based on a list of IPs from Feodo Tracker Botnet C2 https://feodotracker.abuse.ch"
 add list=feodo_tracker_c2-ipv4-all address=104.131.164.93 comment="Based on a list of IPs from Feodo Tracker Botnet C2 https://feodotracker.abuse.ch"
 add list=feodo_tracker_c2-ipv4-all address=107.172.29.108 comment="Based on a list of IPs from Feodo Tracker Botnet C2 https://feodotracker.abuse.ch"
