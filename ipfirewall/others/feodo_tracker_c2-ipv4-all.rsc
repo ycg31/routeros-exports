@@ -61,7 +61,6 @@ add list=feodo_tracker_c2-ipv4-all address=170.238.117.187 comment="Based on a l
 add list=feodo_tracker_c2-ipv4-all address=173.203.78.138 comment="Based on a list of IPs from Feodo Tracker Botnet C2 https://feodotracker.abuse.ch"
 add list=feodo_tracker_c2-ipv4-all address=175.126.167.148 comment="Based on a list of IPs from Feodo Tracker Botnet C2 https://feodotracker.abuse.ch"
 add list=feodo_tracker_c2-ipv4-all address=176.31.117.84 comment="Based on a list of IPs from Feodo Tracker Botnet C2 https://feodotracker.abuse.ch"
-add list=feodo_tracker_c2-ipv4-all address=177.154.161.246 comment="Based on a list of IPs from Feodo Tracker Botnet C2 https://feodotracker.abuse.ch"
 add list=feodo_tracker_c2-ipv4-all address=177.67.137.111 comment="Based on a list of IPs from Feodo Tracker Botnet C2 https://feodotracker.abuse.ch"
 add list=feodo_tracker_c2-ipv4-all address=177.87.0.7 comment="Based on a list of IPs from Feodo Tracker Botnet C2 https://feodotracker.abuse.ch"
 add list=feodo_tracker_c2-ipv4-all address=178.128.197.110 comment="Based on a list of IPs from Feodo Tracker Botnet C2 https://feodotracker.abuse.ch"
@@ -205,5 +204,4 @@ add list=feodo_tracker_c2-ipv4-all address=94.74.133.76 comment="Based on a list
 add list=feodo_tracker_c2-ipv4-all address=95.111.235.8 comment="Based on a list of IPs from Feodo Tracker Botnet C2 https://feodotracker.abuse.ch"
 add list=feodo_tracker_c2-ipv4-all address=95.138.161.226 comment="Based on a list of IPs from Feodo Tracker Botnet C2 https://feodotracker.abuse.ch"
 add list=feodo_tracker_c2-ipv4-all address=97.107.127.161 comment="Based on a list of IPs from Feodo Tracker Botnet C2 https://feodotracker.abuse.ch"
-add list=feodo_tracker_c2-ipv4-all address=97.107.127.227 comment="Based on a list of IPs from Feodo Tracker Botnet C2 https://feodotracker.abuse.ch"
 add list=feodo_tracker_c2-ipv4-all address=97.83.40.67 comment="Based on a list of IPs from Feodo Tracker Botnet C2 https://feodotracker.abuse.ch"
