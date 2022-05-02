@@ -1,12 +1,12 @@
 # Based on a list of IPs from Turris Sentinel https://view.sentinel.turris.cz
 /ip firewall address-list
 remove [find list=turris_sentinel-ipv4-port_scan]
+add list=turris_sentinel-ipv4-port_scan address=45.43.19.85 comment="Based on a list of IPs from Turris Sentinel https://view.sentinel.turris.cz"
 add list=turris_sentinel-ipv4-port_scan address=71.6.135.131 comment="Based on a list of IPs from Turris Sentinel https://view.sentinel.turris.cz"
 add list=turris_sentinel-ipv4-port_scan address=66.240.205.34 comment="Based on a list of IPs from Turris Sentinel https://view.sentinel.turris.cz"
 add list=turris_sentinel-ipv4-port_scan address=185.165.190.17 comment="Based on a list of IPs from Turris Sentinel https://view.sentinel.turris.cz"
 add list=turris_sentinel-ipv4-port_scan address=183.136.225.9 comment="Based on a list of IPs from Turris Sentinel https://view.sentinel.turris.cz"
 add list=turris_sentinel-ipv4-port_scan address=94.102.49.193 comment="Based on a list of IPs from Turris Sentinel https://view.sentinel.turris.cz"
-add list=turris_sentinel-ipv4-port_scan address=107.181.177.182 comment="Based on a list of IPs from Turris Sentinel https://view.sentinel.turris.cz"
 add list=turris_sentinel-ipv4-port_scan address=183.136.225.42 comment="Based on a list of IPs from Turris Sentinel https://view.sentinel.turris.cz"
 add list=turris_sentinel-ipv4-port_scan address=101.68.211.3 comment="Based on a list of IPs from Turris Sentinel https://view.sentinel.turris.cz"
 add list=turris_sentinel-ipv4-port_scan address=71.6.199.23 comment="Based on a list of IPs from Turris Sentinel https://view.sentinel.turris.cz"
