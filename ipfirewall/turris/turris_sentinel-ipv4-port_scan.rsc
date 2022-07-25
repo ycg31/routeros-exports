@@ -14,7 +14,6 @@ add list=turris_sentinel-ipv4-port_scan address=172.104.138.223 comment="Based o
 add list=turris_sentinel-ipv4-port_scan address=2.57.122.98 comment="Based on a list of IPs from Turris Sentinel https://view.sentinel.turris.cz"
 add list=turris_sentinel-ipv4-port_scan address=93.174.95.106 comment="Based on a list of IPs from Turris Sentinel https://view.sentinel.turris.cz"
 add list=turris_sentinel-ipv4-port_scan address=101.68.211.3 comment="Based on a list of IPs from Turris Sentinel https://view.sentinel.turris.cz"
-add list=turris_sentinel-ipv4-port_scan address=185.217.71.190 comment="Based on a list of IPs from Turris Sentinel https://view.sentinel.turris.cz"
 add list=turris_sentinel-ipv4-port_scan address=185.165.190.34 comment="Based on a list of IPs from Turris Sentinel https://view.sentinel.turris.cz"
 add list=turris_sentinel-ipv4-port_scan address=185.165.190.17 comment="Based on a list of IPs from Turris Sentinel https://view.sentinel.turris.cz"
 add list=turris_sentinel-ipv4-port_scan address=80.82.77.33 comment="Based on a list of IPs from Turris Sentinel https://view.sentinel.turris.cz"
